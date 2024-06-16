@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my Bio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+            background-color: #f0f0f0;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            color: #333;
+            margin: 10px 0;
+        }
+        header img {
+            max-width: 200px;
+            border-radius: 50%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        section {
+        	text-align:center;
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+        	text-align: center;
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+            color: #333;
+        }
+        section img {
+        	max-width: 100px;
+            border-radius: 50%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        	
+        .social-links {
+            margin-top: 20px;
+        }
+        .social-links a {
+            display: inline-block;
+            margin-right: 10px;
+            color: #007bff;
+            text-decoration: none;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://example.com/path-to-your-profile-image.jpg" alt="Hafidz" class="profile-img">
+        <h1>Bio</h1>
+    </header>
+    <section>
+    	<img src="https://cdn.kibrispdr.org/data/752/logo-instagram-38.jpg" alt="Hafidz" class="profile-img">
+        <h2>Instagram</h2>
+        <a href="https://www.instagram.com/hfdzarfiyanptra_?igsh=cnI4c2VzeW5jb3Zx" target="_blank">@hfdzarfiyanptra_</a>
+    </section>
+      <section>
+    	<img src="https://st2.depositphotos.com/17828278/45898/v/1600/depositphotos_458986032-stock-illustration-tik-tok-editorial-icon-social.jpg" alt="Hafidz" class="profile-img">
+        <h2>Tiktok</h2>
+        <a href="https://www.tiktok.com/@hafidz_3262?_t=8nF7yCCEa8n&_r=1" target="_blank">@hafidz_3262</a>
+    </section>
+   
+    <footer>
+        <p>© 2024.Dibuat oleh hafidz dengan HTML dan CSS.</p>
+    </footer>
+</body>
+</html>
